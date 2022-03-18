@@ -68,7 +68,7 @@ body{
     padding-bottom: 4px;
     border-radius: 8px;
     background-color: #3882F6;
-    border-color:  #3882F6;
+    border: 2px solid  #3882F6;
     font-size: 18px;
     color:#E5E7EB;
     font-weight: bold;
